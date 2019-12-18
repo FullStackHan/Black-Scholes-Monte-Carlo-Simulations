@@ -1,5 +1,5 @@
 # Stockast
-## Stock Market Forecasting using Monte-Carlo Simulations
+## Stock Market Forecasting using CUDA Monte-Carlo Simulations 
 
 ### Build
 ```bash
