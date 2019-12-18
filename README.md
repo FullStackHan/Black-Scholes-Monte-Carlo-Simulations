@@ -1,4 +1,4 @@
-# Stockast
+# Black-Scholes-Monte-Carlo-Simulations
 ## Stock Market Forecasting using CUDA Monte-Carlo Simulations 
 
 ### Build
